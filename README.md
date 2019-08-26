@@ -21,7 +21,7 @@ From Kaggle: 	https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athle
 
 You can play with our system by using the following url:
 
-https://opal.ils.unc.edu/~yiwen/OlympicAnalysisVis/Olympics-medal.html
+http://olympicanalysisvis.epizy.com/OlympicAnalysisVis/Olympics-medal.html
 
 
 # Medal Board
